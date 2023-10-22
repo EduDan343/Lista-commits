@@ -1,0 +1,18 @@
+.footerContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: rgb(56, 137, 230);
+    width: 100vw;
+    color: aliceblue;
+    position: absolute;
+    bottom: 0px;
+
+}
+
+.iconContainer {
+    display: flex;
+    align-items: center;
+}
